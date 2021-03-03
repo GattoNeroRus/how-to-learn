@@ -18,7 +18,7 @@
   overflow: hidden;
 }
 
-.logo_place-header {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
@@ -273,7 +273,7 @@
   flex-basis: 711px;
 }
 
-.logo_place-footer {
+.logo_place_footer {
   height: 35px;
   width: 183px;
 }
