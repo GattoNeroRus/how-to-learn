@@ -1,9 +1,11 @@
 .video__iframe {
   z-index: 2;
   transform: translate(0, 50px);
+  width: 515px;
+  height: 316px;
   border: none;
 }
 
 .video__iframe:first-of-type {
-  margin: 0 20px 0;
+  margin: 0 20px 0 0;
 }
